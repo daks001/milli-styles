@@ -6,14 +6,14 @@ const breathe_time = (total_time / 5) * 2;
 const hold_time = total_time /  5;
 
 const breathe_animation = () => {
-  text.innerHTML = 'Breathe in'
+  text.innerHTML = 'Get'
   container.className = 'container grow';
 
   setTimeout(() => {
-    text.innerText = 'Hold';
+    text.innerText = 'Set';
 
     setTimeout(() => {
-      text.innerText = 'Breathe out'
+      text.innerText = 'Go!'
       container.className = 'container shrink';
     }, hold_time);
   }, breathe_time); //3000ms = 3s
