@@ -2,10 +2,10 @@ const container = document.querySelector('.container');
 const text = document.querySelector('#text');
 
 const total_time = 7500;
-const breathe_time = (total_time / 5) * 2;
+const start_time = (total_time / 5) * 2;
 const hold_time = total_time /  5;
 
-const breathe_animation = () => {
+const expand_animation = () => {
   text.innerHTML = 'Get'
   container.className = 'container grow';
 
@@ -16,9 +16,9 @@ const breathe_animation = () => {
       text.innerText = 'Go!'
       container.className = 'container shrink';
     }, hold_time);
-  }, breathe_time); //3000ms = 3s
+  }, start_time); //3000ms = 3s
 };
 
-breathe_animation();
+expand_animation();
 
-setInterval(breathe_animation, total_time);
+setInterval(expand_animation, total_time);
