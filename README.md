@@ -8,7 +8,7 @@ See code [here!](https://github.com/daks001/milli-styles/relaxer).
 
 ## Health panel display:
 
-See code found [here!](https://github.com/daks001/milli-styles/grid-span).
+See code [here!](https://github.com/daks001/milli-styles/grid-span).
 
 <div align="center">
   <img src="https://github.com/daks001/milli-styles/blob/master/grid-span/img/preview.png">
