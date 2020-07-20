@@ -6,7 +6,7 @@ See code [here!](https://github.com/daks001/milli-styles/tree/master/relaxer).
   <img src="https://github.com/daks001/milli-styles/blob/master/relaxer/img/preview.gif">
 </div>
 
-## Health panel display:
+## Panel display:
 
 See code [here!](https://github.com/daks001/milli-styles/tree/master/grid-span).
 
