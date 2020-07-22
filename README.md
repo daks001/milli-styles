@@ -19,7 +19,7 @@ See code [here](https://github.com/daks001/milli-styles/tree/master/grid-span).
 See code [here](https://github.com/daks001/milli-styles/tree/master/3d-flip).
 
 <div align="center">
-  <img src="'https://github.com/daks001/milli-styles/blob/master/3d-flip/flip.gif'g">
+  <img src="'https://github.com/daks001/milli-styles/blob/master/3d-flip/flip.gif">
 </div>
 
 
