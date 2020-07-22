@@ -13,3 +13,13 @@ See code [here](https://github.com/daks001/milli-styles/tree/master/grid-span).
 <div align="center">
   <img src="https://github.com/daks001/milli-styles/blob/master/grid-span/img/preview.png">
 </div>
+
+## 3-D Flip on hover:
+
+See code [here](https://github.com/daks001/milli-styles/tree/master/3d-flip).
+
+<div align="center">
+  <img src="'https://github.com/daks001/milli-styles/blob/master/3d-flip/flip.gif'g">
+</div>
+
+
